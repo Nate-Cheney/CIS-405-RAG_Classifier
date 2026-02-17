@@ -1,0 +1,4 @@
+fsspec
+huggingface_hub
+pandas
+spacy
