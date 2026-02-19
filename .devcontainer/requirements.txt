@@ -1,4 +1,5 @@
 fsspec
 huggingface_hub
 pandas
+sentence_transformers
 spacy
