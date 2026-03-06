@@ -1,5 +1,7 @@
 fsspec
 huggingface_hub
 pandas
+pickle
+re
 sentence_transformers
 spacy
