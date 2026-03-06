@@ -1,5 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch==2.10.0+cpu 
 fsspec
 huggingface_hub
 pandas
 sentence_transformers
 spacy
+xgboost
